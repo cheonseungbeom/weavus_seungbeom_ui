@@ -11,7 +11,7 @@
 
 ## 🖥 뱅킹 포털 API
 
-🔗 [https://img.shields.io/badge/GitHub-API%20Repo-blue.svg?style=flat-square)](https://github.com/cheonseungbeom/weavus_seungbeom_api](https://img.shields.io/badge/GitHub-API%20Repo-blue.svg?style=flat-square)](https://github.com/cheonseungbeom/weavus_seungbeom_api)
+🔗 [https://github.com/cheonseungbeom/weavus_seungbeom_api](https://github.com/cheonseungbeom/weavus_seungbeom_api)
 
 뱅킹 포털 API는 사용자 계정 관리, 자금 이체 및 거래 관련 엔드포인트를 제공합니다. 이 프로젝트는 사용자에게 **안전하고 효율적인 금융 서비스**를 제공하는 것을 목표로 합니다.
 
