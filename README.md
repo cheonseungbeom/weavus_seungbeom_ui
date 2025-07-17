@@ -1,6 +1,6 @@
 # 💳 뱅킹 포털 UI
 
-## ⭐ 새로운 기능 업데이트를 위해 GitHub 저장소를 포크하고 Star 누르기
+
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-UI%20Repo-blue.svg?style=flat-square)](https://github.com/abhi9720/BankingPortal-UI)  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-API%20Repo-blue.svg?style=flat-square)](https://github.com/abhi9720/BankingPortal-API)
