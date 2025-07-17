@@ -1,0 +1,23 @@
+<div class="w-full bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg shadow-lg p-6 text-white">
+  <h2 class="text-2xl font-semibold mb-6">こんにちは！ {{ userProfileData?.name }} 様</h2>
+
+  <div class="mb-4 flex items-center">
+    <i class="fas fa-phone  mr-2"></i>
+    <label class="text-sm font-semibold">携帯番号
+:</label>
+    <span class="ml-2 text-sm font-semibold">{{ userProfileData?.phoneNumber }}</span>
+  </div>
+
+  <div class="mb-4 flex items-center">
+    <i class="fas fa-envelope  mr-2"></i>
+    <label class="text-sm font-semibold">E-mail:</label>
+    <span class="ml-2 text-sm font-semibold">{{ userProfileData?.email }}</span>
+  </div>
+
+  <div class="mb-4 flex items-center">
+    <i class="fas fa-address-book  mr-2"></i>
+    <label class="text-sm font-semibold">住所:</label>
+    <span class="ml-2 text-sm font-semibold">{{ userProfileData?.address }}</span>
+  </div>
+
+</div>
