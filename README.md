@@ -51,7 +51,7 @@
 
 ## 🛠 설치 및 실행 방법
 
-1. 먼저 [BankingPortal-API](https://github.com/abhi9720/BankingPortal-API)를 실행하세요.
+1. 먼저 [BankingPortal-API](https://github.com/cheonseungbeom/weavus_seungbeom_api)를 실행하세요.
 
 2. 이 저장소를 로컬에 클론합니다:
 
