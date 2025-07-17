@@ -94,6 +94,9 @@
 2. 계좌이체
 <img src="https://github.com/user-attachments/assets/f9bef292-44d8-40bb-9780-c9e02824c229" width="600"/>
 
+3. PIN 생성
+<img src="https://github.com/user-attachments/assets/a2c141bc-9cdd-4cb1-bd23-5e10436054b1" width="600"/>
+
 ---
 
 
