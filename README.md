@@ -88,10 +88,11 @@
 ---
 
 ## 📸 스크린샷
-
+1. 로그인, 입금
 <img src="https://github.com/user-attachments/assets/0e974b89-e50b-400a-a45c-9601b5741453" width="600"/>
 
-![입금](https://github.com/user-attachments/assets/0e974b89-e50b-400a-a45c-9601b5741453)
+2. 계좌이체
+<img src="https://github.com/user-attachments/assets/f9bef292-44d8-40bb-9780-c9e02824c229" width="600"/>
 
 ---
 
